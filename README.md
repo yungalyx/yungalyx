@@ -4,18 +4,17 @@
 * Interested in finance 📈, crypto ⛓️, algotrading 🤖
 
 ### What's happening 👋 
-* Software developing full-time at [CovalentHQ](https://www.covalenthq.com/)
+* Full time SWE intern at [CovalentHQ](https://www.covalenthq.com/)
 * Building a crypto liquidation bot using flashloans, solidity, and web3 
 * Deploying algotrader bot with TWS to do stonks (cause I can't wake up at 6:30 PST to trade NYSE market open 😴)
 - [ ] trying to predict when the stock market will crash (if checked, it means the market has crashed)
 * reorganizing my notion page (again)
-* trying to play Cruel Angel Thesis on piano (https://www.youtube.com/watch?v=aYe-2Glruu4)
 
 ### What's happened 📕
 * Software developed custom inhouse tools and created community with [nwPlus](https://www.nwplus.io/), UBC's student-run hackathon team
-* Built online learning tools for UBC's Psychology deparment: [Tapestry](https://tapestry-tool.com/) to improve the virtual learning experience (worklearn)
+* Built online learning tools for UBC's Psychology deparment: [Tapestry](https://tapestry-tool.com/) to improve the virtual learning experience
+* Won at nwHacks 2020 and dubHacks 2020
 * Machine learned some stuff and also machine forgot some 
-* rebuilt the algotrader series for the 4th time <code> noisyboy (backtrader) -> luna 6 (papertrading + alpaca) -> simplyalgo (interactive brokers) </code>
 
 ### What's going to happen next 🚀
 * Going on exchange in Fall 2021! I'm off to Tsinghua University ([THU](https://www.tsinghua.edu.cn/en/index.htm)) 🌁 and the National University of Singapore ([NUS](https://www.nus.edu.sg/)) 🌆
