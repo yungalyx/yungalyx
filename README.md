@@ -3,7 +3,7 @@
 * 3rd Year @ UBC - Vancouver, BC 🌇
 * Interested in finance 📈, crypto ⛓️, algotrading 🤖
 
-## What's happening:
+## What's happening 👋 
 * Software developing full-time at [CovalentHQ](https://www.covalenthq.com/)
 * Building a crypto liquidation bot using flashloans, solidity, and web3 
 * Deploying algotrader bot with TWS to do stonks (cause I can't wake up at 6:30 PST to trade NYSE market open 😴)
