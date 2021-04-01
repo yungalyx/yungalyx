@@ -15,7 +15,7 @@
 * Software developed custom inhouse tools and created community with [nwPlus](https://www.nwplus.io/), UBC's student-run hackathon team
 * Built online learning tools for UBC's Psychology deparment: [Tapestry](https://tapestry-tool.com/) to improve the virtual learning experience (worklearn)
 * Machine learned some stuff and also machine forgot some 
-* rebuilt the algotrader series like 4 times already (Luna 6 (backtrader) -> Calypso 7(alpaca api) -> TWS)
+* rebuilt the algotrader series like 4 times already <code> Luna 6 (backtrader) -> Calypso 7 (papertrading + alpaca) -> simplyalgo (interactive brokers) </code>
 
 ### What's going to happen next 🚀
 * Going on exchange in Fall 2021! I'm off to Tsinghua University ([THU](https://www.tsinghua.edu.cn/en/index.htm)) 🌁 and the National University of Singapore ([NUS](https://www.nus.edu.sg/)) 🌆
