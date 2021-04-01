@@ -9,6 +9,7 @@
 * Deploying algotrader bot with TWS to do stonks (cause I can't wake up at 6:30 PST to trade NYSE market open 😴)
 - [ ] trying to predict when the stock market will crash (if checked, it means the market has crashed)
 * reorganizing my notion page (again)
+* trying to play Cruel Angel Thesis on piano (https://www.youtube.com/watch?v=aYe-2Glruu4)
 
 ### What's happened 📕
 * Software developed custom inhouse tools and created community with [nwPlus](https://www.nwplus.io/), UBC's student-run hackathon team
