@@ -23,6 +23,4 @@
 * Learn how to drive manual 🏎️
 * Own 3 bitcoins 💵
 
-### Spaghetti code of shame 🍝
-
-<code> <td> { (Number(item.decoded.params[3].value)/(Math.pow(10, 18))).toFixed(3) + " " + (item.decoded.params[1].value == '0x6b175474e89094c44da98b954eedeac495271d0f' ? 'DAI' : 'WETH') + " : " + (Number(item.decoded.params[4].value)/(Math.pow(10, 18))).toFixed(3) + " " + (item.decoded.params[2].value == '0x6b175474e89094c44da98b954eedeac495271d0f' ? 'DAI' : 'WETH') } </td> </code> 
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/source.gif" />
