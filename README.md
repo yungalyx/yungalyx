@@ -7,11 +7,10 @@
 * Full time SWE intern at [CovalentHQ](https://www.covalenthq.com/)
 * Building a crypto liquidation bot using flashloans, solidity, and web3 
 * Deploying algotrader bot with TWS to do stonks (cause I can't wake up at 6:30 PST to trade NYSE market open 😴)
-- [ ] trying to predict when the stock market will crash (if checked, it means the market has crashed)
-* reorganizing my notion page (again)
+- [x] trying to predict when the stock market will crash (if checked, it means the market has crashed) (note: May 12: only US and China Tech sector)
 
 ### What's happened 📕
-* Software developed custom inhouse tools and created community with [nwPlus](https://www.nwplus.io/), UBC's student-run hackathon team
+* developed custom inhouse tools and created community with [UBC's nwPlus](https://www.nwplus.io/), Western Canada's largest student-run hackathon team
 * Built online learning tools for UBC's Psychology deparment: [Tapestry](https://tapestry-tool.com/) to improve the virtual learning experience
 * Won at nwHacks 2020 and dubHacks 2020
 * Machine learned some stuff and also machine forgot some 
