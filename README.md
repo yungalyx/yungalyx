@@ -7,7 +7,7 @@
 * Full time SWE intern at [CovalentHQ](https://www.covalenthq.com/)
 * Building a crypto liquidation bot using flashloans, solidity, and web3 
 * Deploying algotrader bot with TWS to do stonks (cause I can't wake up at 6:30 PST to trade NYSE market open 😴)
-- [x] trying to predict when the stock market will crash (if checked, it means the market has crashed) (note: May 12: only US and China Tech sector)
+
 
 ### What's happened 📕
 * developed custom inhouse tools and created community with [UBC's nwPlus](https://www.nwplus.io/), Western Canada's largest student-run hackathon team
