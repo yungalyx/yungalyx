@@ -12,7 +12,7 @@
 ### What's happened 📕
 * developed custom inhouse tools and created community with [UBC's nwPlus](https://www.nwplus.io/), Western Canada's largest student-run hackathon team
 * Built online learning tools for UBC's Psychology deparment: [Tapestry](https://tapestry-tool.com/) to improve the virtual learning experience
-* Won at nwHacks 2020 and dubHacks 2020
+* Won at nwHacks 2020 and dubHacks 2020 and Fantom x Covalent Hackathon 2021
 * Machine learned some stuff and also machine forgot some 
 
 ### What's going to happen next 🚀
