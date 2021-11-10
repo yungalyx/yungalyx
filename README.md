@@ -20,6 +20,5 @@
 * Learning server and serverless architecture 🏗️
 * Hoping to publish a paper on 'Pareidolia in AI and financial markets' 👨🏻‍🔬
 * Learn how to drive manual 🏎️
-* Own 3 bitcoins 💵
 
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/source.gif" />
