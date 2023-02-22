@@ -8,10 +8,12 @@
 * contact me at [alxander.lin@gmail.com](mailto:alxander.lin@gmail.com)
 
 ### What's happening 👋 
-* currently working on Canada's Digital Aviation Supercluster project ([DARS](https://innovation.ubc.ca/about/news/new-digital-technology-supercluster-project-aims-transform-aircraft-maintenance-more)) as an software engineer intern at [Boeing](https://www.boeing.com/)
+* Working on web3 integrations and data pipelines at Aquanow
+* Studying distributed systems abroad at Nanyang Technological University
 * Developing a low latency algotrading bot with Interactive Broker's TWS to manage my trades (cause I can't wake up at 6:30 PST to trade NYSE market open 😴)
 
 ### What's happened 📕
+* currently working on Canada's Digital Aviation Supercluster project ([DARS](https://innovation.ubc.ca/about/news/new-digital-technology-supercluster-project-aims-transform-aircraft-maintenance-more)) as an software engineer intern at [Boeing](https://www.boeing.com/)
 * Full time SWE intern at [CovalentHQ](https://www.covalenthq.com/)
 * developed custom inhouse tools and created community with [UBC's nwPlus](https://www.nwplus.io/), Western Canada's largest student-run hackathon team
 * Built online learning tools for UBC's Psychology deparment: [Tapestry](https://tapestry-tool.com/) to improve the virtual learning experience
