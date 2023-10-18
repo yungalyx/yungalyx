@@ -1,6 +1,6 @@
 # Hey I'm Alexander Lin 👨🏽‍💻 
 
-## Software Engineer and Fullstack Developer
+## Blockchain Engineer, Fullstack SWE
 
 * 4th Year BSc, Computer Science @ UBC - Vancouver, BC 🌇
 * experienced in finance 📈, crypto ⛓️, algotrading 🤖
