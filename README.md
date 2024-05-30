@@ -1,1 +1,1 @@
-![alt text](https://github.com/yungalyx/profile/main/image.jpg?raw=true)
+![alt text](https://github.com/yungalyx/profile/blob/main/img.jpg)
